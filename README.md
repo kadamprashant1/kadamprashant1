@@ -25,9 +25,9 @@
   </a>
 </p>
 
-<div>
-  <h3 align="left" style="color: #ffffff;" width=100% >My Leetcode</h3>
-  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=heatmap&theme=dark" alt="LeetCode Profile" /><img src="https://leetcode-badge-showcase.vercel.app/api?username=Oxima_e&animated=true" alt="LeetCode Badges"/>
+<div class="container">
+  <h3 align="left" style="color: #ffffff;" >My Leetcode</h3>
+  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=heatmap&theme=dark" alt="LeetCode Profile" /> &nbsp; &nbsp; <img src="https://leetcode-badge-showcase.vercel.app/api?username=Oxima_e&animated=true" alt="LeetCode Badges"/>
 </div>
 
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
@@ -102,4 +102,13 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a> &nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8>
+      </a>
+     <script>
+.container {
+    width: 40%;
+    height: 40%;
+    background: #444;
+    margin: 0 auto;
+}
+</script>
