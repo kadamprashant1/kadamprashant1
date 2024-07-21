@@ -1,6 +1,6 @@
 # Profile-Card
-<h1 align="center">Hi 👋, I'm Prashant Kadam</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Prashant Kadam</h1>
+<h3 align="center" style="color: #ffffff;">A passionate developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="kadamprashant1" /> 
@@ -8,11 +8,11 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kadamprashant1" alt="kadamprashant1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kadamprashant1&theme=darkhub" alt="kadamprashant1" />
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/prashant-kadam-12552721a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-kadam-12552721a" height="30" width="40" />
@@ -26,11 +26,11 @@
 </p>
 
 <div>
-  <h3 align="left"> My Leetcode</h3>
-  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=heatmap" alt="LeetCode Profile" />
+  <h3 align="left" style="color: #ffffff;">My Leetcode</h3>
+  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=heatmap&theme=dark" alt="LeetCode Profile" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -102,4 +102,4 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8
