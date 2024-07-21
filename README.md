@@ -104,11 +104,4 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8>
       </a>
-     <script>
-.container {
-    width: 40%;
-    height: 40%;
-    background: #444;
-    margin: 0 auto;
-}
-</script>
+
