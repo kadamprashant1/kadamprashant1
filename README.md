@@ -27,7 +27,7 @@
 
 <div>
   <h3 align="left" style="color: #ffffff;">My Leetcode</h3>
-  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=heatmap&theme=dark" alt="LeetCode Profile" />
+  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=heatmap&theme=dark" alt="LeetCode Profile" /><img src="https://leetcode-badge-showcase.vercel.app/api?username={Oxima_e}&animated=true" alt="LeetCode Badges"/>
 </div>
 
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
