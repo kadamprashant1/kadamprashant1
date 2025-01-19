@@ -23,6 +23,9 @@
   <a href="https://auth.geeksforgeeks.org/user/kadamprashantnotofficial" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kadamprashantnotofficial" height="30" width="40" />
   </a>
+  <a href="https://codeforces.com/profile/kadamprashantnotofficial" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="kadamprashantnotofficial" height="30" width="40" />
+  </a>
 </p>
 
 <div class="container">
