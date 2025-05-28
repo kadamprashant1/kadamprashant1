@@ -1,6 +1,15 @@
 # Profile-Card
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Prashant Kadam</h1>
 <h3 align="center" style="color: #ffffff;">A passionate developer from India</h3>
+<ul style="color: #ffff;">
+  <li>
+    <strong>Software Engineer Trainee</strong> – <em>CISCO System Inc.</em> (Nov 2024 - current)<br/>
+    Worked on fullstack development using python & streamlit.
+  </li>
+  <br/>
+
+  
+</ul>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="kadamprashant1" /> 
@@ -30,6 +39,9 @@
     <img align="center" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="kadamprashantnotofficial" height="30" width="40" />
   </a>
 </p>
+<h3 align="left" style="color: #ffffff;">My Career Path 🚀</h3>
+<h3 align="left" style="color: #ffffff;">💼 Career Journey</h3>
+
 
 <div class="container">
   <h3 align="left" style="color: #ffffff;" >My Leetcode</h3>
@@ -110,4 +122,3 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8>
       </a>
-
