@@ -41,8 +41,7 @@
     <img align="center" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="kadamprashantnotofficial" height="30" width="40" />
   </a>
 </p>
-<h3 align="left" style="color: #ffffff;">My Career Path 🚀</h3>
-<h3 align="left" style="color: #ffffff;">💼 Career Journey</h3>
+
 
 
 <div class="container">
