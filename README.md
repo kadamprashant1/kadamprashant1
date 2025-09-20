@@ -4,13 +4,20 @@
 <h3 align="left" style="color: #ffffff;">My Career Path 🚀</h3>
 <h3 align="left" style="color: #ffffff;">💼 Career Journey</h3>
 <ul style="color: #ffff;">
-  <li>
-    <strong>Software Engineer Trainee</strong> – <em>CISCO System Inc.</em> (Nov 2024 - current)<br/>
-    Worked on fullstack development using python & streamlit.
-  </li>
-  <br/>
-
-  
+<li>
+  <strong>Software Engineer Trainee</strong> – <em>CISCO System Inc.</em> (Nov 2024 - current)<br/>
+  Worked on fullstack development using Python & Streamlit. Key contributions:
+  <ul>
+    <li>Developed a microservices-based tool to identify flaky test cases and measure their impact on overall test coverage.</li>
+    <li>Built a microservices-driven tool to analyze cyclomatic complexity of code across GitHub repositories using Streamlit, Docker, Python, Radon, and Jenkins.</li>
+    <li>Implemented Redis caching, improving application response time by 85.57%.</li>
+    <li>Designed and optimized SQL queries for efficient database access.</li>
+    <li>Contributed to the development and optimization of a high-performance, data-intensive application.</li>
+    <li>Created and managed Jenkins pipelines for CI/CD automation.</li>
+    <li>Resolved bugs and authored technical documentation, enhancing code stability and usability.</li>
+  </ul>
+</li>
+<br/>
 </ul>
 
 <p align="left"> 
