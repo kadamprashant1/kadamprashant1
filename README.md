@@ -128,4 +128,14 @@
   </a> &nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8>
-      </a>
+      </a> &nbsp;
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="redis" width="40" height="40"/>
+</a> &nbsp;
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+</a> &nbsp;
+<a href="https://github.com/lexiforest/curl_cffi" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/lexiforest/curl_cffi/main/docs/_static/logo.png" alt="curl_cffi" width="40" height="40"/>
+</a> &nbsp;
+
