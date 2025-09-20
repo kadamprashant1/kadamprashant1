@@ -31,24 +31,23 @@
 </p>
 
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 15px; align-items: center;">
   <a href="https://linkedin.com/in/prashant-kadam-12552721a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-kadam-12552721a" height="30" width="40" />
-    <p> </p>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-kadam-12552721a" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/oxima_e" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oxima_e" height="30" width="40" />
+
+  <a href="https://www.leetcode.com/oxima_e" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oxima_e" height="30" width="40" />
   </a>
-  <p> </p>
+
   <a href="https://auth.geeksforgeeks.org/user/kadamprashantnotofficial" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kadamprashantnotofficial" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kadamprashantnotofficial" height="30" width="40" />
   </a>
-  <p> </p>
+
   <a href="https://codeforces.com/profile/kadamprashantnotofficial" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="kadamprashantnotofficial" height="30" width="40" />
+    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="kadamprashantnotofficial" height="30" width="40" />
   </a>
 </p>
-
 
 
 <div class="container">
