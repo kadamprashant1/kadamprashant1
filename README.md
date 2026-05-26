@@ -1,6 +1,6 @@
 # Profile-Card
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Prashant Kadam</h1>
-<h3 align="center" style="color: #ffffff;">A passionate developer from India</h3>
+<h3 align="center" style="color: #ffffff;">A passionate Engineer from India</h3>
 <h3 align="left" style="color: #ffffff;">My Career Path 🚀</h3>
 <h3 align="left" style="color: #ffffff;">💼 Career Journey</h3>
 <ul style="color: #ffff;">
