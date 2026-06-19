@@ -20,6 +20,25 @@
 <br/>
 </ul>
 
+<h3 align="left" style="color: #ffffff;">🌟 Open Source Contributions</h3>
+
+<ul style="color: #ffff;">
+  <li>
+    <strong>🚀 Contributed to Open Source Projects</strong><br>
+    Worked on bug fixes, feature enhancements, documentation improvements, and code optimization across various open-source repositories.
+  </li>
+<li>
+  <strong>🔧 curl_cffi</strong><br>
+  Contributed to the <code>curl_cffi</code> open-source project by implementing an <code>upkeep()</code> method for <code>AsyncSession</code> to support long-running asynchronous sessions (<a href="https://github.com/lexiforest/curl_cffi/pull/640">PR #640</a>).
+</li>
+  <li>
+  <strong>🏋️ <a href="https://github.com/kadamprashant1/forge-gym-application">Forge Gym Application</a></strong><br>
+  Built a full-stack gym management platform to streamline member registration, subscription management, workout tracking, and administrative operations.
+</li>
+
+</ul>
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="kadamprashant1" /> 
 </p>
