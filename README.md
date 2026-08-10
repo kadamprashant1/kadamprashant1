@@ -5,7 +5,7 @@
 <h3 align="left" style="color: #ffffff;">💼 Career Journey</h3>
 <ul style="color: #ffff;">
 <li>
-  <strong>Software Engineer Trainee</strong> – <em>CISCO System Inc.</em> (Nov 2024 - current)<br/>
+  <strong>Software Engineer Trainee</strong> – <em>CISCO System Inc.</em> (2024 - 2025)<br/>
   Worked on fullstack development using Python & Streamlit. Key contributions:
   <ul>
     <li>Developed a microservices-based tool to identify flaky test cases and measure their impact on overall test coverage.</li>
