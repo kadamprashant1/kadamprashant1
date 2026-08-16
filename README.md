@@ -40,12 +40,12 @@
 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="kadamprashant1" /> 
+  <img src="https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kadamprashant1&theme=darkhub" alt="kadamprashant1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kadamprashant1&theme=darkhub" alt="GitHub Profile Trophies" />
   </a> 
 </p>
 
