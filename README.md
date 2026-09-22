@@ -1,159 +1,129 @@
-<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Prashant Kadam</h1>
-<h3 align="center" style="color: #ffffff;">A passionate Engineer from India</h3>
-<h3 align="left" style="color: #ffffff;">My Career Path 🚀</h3>
-<h3 align="left" style="color: #ffffff;">💼 Career Journey</h3>
-<ul style="color: #ffff;">
-<li>
-  <strong>Software Engineer Trainee</strong> – <em>CISCO System Inc.</em> (2024 - 2025)<br/>
-  Worked on fullstack development using Python & Streamlit. Key contributions:
-  <ul>
-    <li>Developed a microservices-based tool to identify flaky test cases and measure their impact on overall test coverage.</li>
-    <li>Built a microservices-driven tool to analyze cyclomatic complexity of code across GitHub repositories using Streamlit, Docker, Python, Radon, and Jenkins.</li>
-    <li>Implemented Redis caching, improving application response time by 85.57%.</li>
-    <li>Designed and optimized SQL queries for efficient database access.</li>
-    <li>Contributed to the development and optimization of a high-performance, data-intensive application.</li>
-    <li>Created and managed Jenkins pipelines for CI/CD automation.</li>
-    <li>Resolved bugs and authored technical documentation, enhancing code stability and usability.</li>
-  </ul>
-</li>
-<br/>
-</ul>
+<div align="center">
 
-<h3 align="left" style="color: #ffffff;">🌟 Open Source Contributions</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Prashant%20Kadam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAnimation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
 
-<ul style="color: #ffff;">
-  <li>
-    <strong>🚀 Contributed to Open Source Projects</strong><br>
-    Worked on bug fixes, feature enhancements, documentation improvements, and code optimization across various open-source repositories.
-  </li>
-<li>
-  <strong>🔧 curl_cffi</strong><br>
-  Contributed to the <code>curl_cffi</code> open-source project by implementing an <code>upkeep()</code> method for <code>AsyncSession</code> to support long-running asynchronous sessions (<a href="https://github.com/lexiforest/curl_cffi/pull/640">PR #640</a>).
-</li>
-  <li>
-  <strong>🏋️ <a href="https://github.com/kadamprashant1/forge-gym-application">Forge Gym Application</a></strong><br>
-  Built a full-stack gym management platform to streamline member registration, subscription management, workout tracking, and administrative operations.
-</li>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Fullstack+Developer+%7C+Python+%26+Streamlit;Open+Source+Contributor+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-</ul>
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kadamprashant1&theme=darkhub" alt="GitHub Profile Trophies" />
-  </a> 
-</p>
-
-<h3 align="left" style="color: #ffffff;">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://linkedin.com/in/prashant-kadam-12552721a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-kadam-12552721a" height="30" width="40" />
-  </a>
-
-  <a href="https://www.leetcode.com/oxima_e" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oxima_e" height="30" width="40" />
-  </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/kadamprashantnotofficial" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kadamprashantnotofficial" height="30" width="40" />
-  </a>
-
-  <a href="https://codeforces.com/profile/kadamprashantnotofficial" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" alt="kadamprashantnotofficial" height="30" width="40" />
-  </a>
-</p>
-
-
-<div class="container">
-  <h3 align="left" style="color: #ffffff;" >My Leetcode</h3>
-  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=contest&theme=dark" alt="LeetCode Profile" /> &nbsp; &nbsp; <img src="https://leetcode-badge-showcase.vercel.app/api?username=Oxima_e&animated=true" alt="LeetCode Badges"/>
 </div>
 
-<h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
-<p align="left" >
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &nbsp;
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8>
-      </a> &nbsp;
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="[https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000]" alt="redis" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://github.com/lexiforest/curl_cffi" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/lexiforest/curl_cffi/main/docs/_static/logo.png" alt="curl_cffi" width="40" height="40"/>
-</a> &nbsp;
+<br/>
 
+## 💼 Career Journey
+
+<table>
+<tr>
+<td width="100%">
+
+### Software Engineer Trainee — *Cisco Systems Inc.* 
+`2024 – 2025`
+
+Worked on fullstack development using **Python, Streamlit, pyATS, PyTest**. Key contributions:
+- 🧰 Building engineer for custom sandbox testing tool for network protocol testing.
+- 🧪 Developed a microservices-based tool to identify flaky test cases and measure their impact on overall test coverage
+- 📊 Built a microservices-driven tool to analyze **cyclomatic complexity** of code across GitHub repositories using Streamlit, Docker, Python, Radon, and Jenkins
+- ⚡ Implemented **Redis caching**, improving application response time by **85.57%**
+- 🗄️ Designed and optimized SQL queries for efficient database access
+- 🏗️ Contributed to the development and optimization of a high-performance, data-intensive application
+- 🔄 Created and managed **Jenkins pipelines** for CI/CD automation
+- 🐛 Resolved bugs and authored technical documentation, enhancing code stability and usability
+
+</td>
+</tr>
+</table>
+
+## 🌟 Open Source Contributions
+
+- 🚀 **Contributed to Open Source Projects** — bug fixes, feature enhancements, documentation improvements, and code optimization across various open-source repositories
+- 🔧 **[curl_cffi](https://github.com/lexiforest/curl_cffi)** — Implemented an `upkeep()` method for `AsyncSession` to support long-running asynchronous sessions ([PR #640](https://github.com/lexiforest/curl_cffi/pull/640))
+- 🏋️ **[Forge Gym Application](https://github.com/kadamprashant1/forge-gym-application)** — Built a full-stack gym management platform to build workout plans, workout tracking, personal video assistent.
+
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kadamprashant1&theme=darkhub&no-frame=true&margin-w=10&row=1" alt="GitHub Profile Trophies" />
+</a>
+
+<br/><br/>
+
+### 📊 LeetCode Stats
+
+<div align="center" style="display:flex; justify-content:center; width:100%; gap:10px;">
+  <img src="https://leetcard.jacoblin.cool/Oxima_e?ext=contest&theme=dark" alt="LeetCode Profile" width="49%"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Oxima_e&animated=true" alt="LeetCode Badges" width="49%"/>
+</div>
+
+</div>
+
+## 🛠️ Languages & Tools
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![curl_cffi](https://img.shields.io/badge/curl__cffi-000000?style=for-the-badge&logo=curl&logoColor=white)
+![pyATS](https://img.shields.io/badge/pyATS-049FD9?style=for-the-badge&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Netmiko](https://img.shields.io/badge/Netmiko-2E8B57?style=for-the-badge&logoColor=white)
+![Genie](https://img.shields.io/badge/Genie-049FD9?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Connect with Me
+
+<a href="https://linkedin.com/in/prashant-kadam-12552721a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.leetcode.com/oxima_e" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/kadamprashantnotofficial" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="https://codeforces.com/profile/kadamprashantnotofficial" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kadamprashant1&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
